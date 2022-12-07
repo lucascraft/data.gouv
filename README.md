@@ -13,3 +13,5 @@ Sample :
 
 https://github.com/lucascraft/data.gouv/blob/main/2011_2021_consommation_gaz-elec.netcdf
 
+![elec/gas consumption](image.png)
+
