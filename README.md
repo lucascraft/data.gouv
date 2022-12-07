@@ -4,7 +4,10 @@ from https://www.data.gouv.fr/fr/datasets/consommation-annuelle-delectricite-et-
 
 electricity/gas consumption 2011 - 2021
 
-Panoply viewer for Netcdf files : https://www.giss.nasa.gov/tools/panoply/download/PanoplyWin-5.2.2.zip
+Panoply viewer for Netcdf files : 
+https://www.giss.nasa.gov/tools/panoply/download/PanoplyWin-5.2.2.zip
+https://www.giss.nasa.gov/tools/panoply/download/PanoplyMacOS-jfc-5.2.2.dmg
+https://www.giss.nasa.gov/tools/panoply/download/PanoplyJ-5.2.2.tgz
 
 Sample :
 
